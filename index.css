@@ -94,3 +94,30 @@ span {
   background-color: rgb(20, 20, 20);
   cursor: text;
 }
+@media (max-width: 400px) {
+  html {
+    font-size: 4.25%;
+  }
+  nav {
+    font-size: 30rem;
+    padding-left: 15rem;
+  }
+  .wrapper {
+    flex-direction: column;
+  }
+  .options {
+    width: 100%;
+  }
+  .show {
+    width: 100%;
+  }
+  #card {
+    height: 160px;
+    width: 160px;
+    padding: 10px;
+  }
+  #card img {
+    height: 150px;
+    width: 150px;
+  }
+}
