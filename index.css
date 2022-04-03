@@ -93,6 +93,7 @@ span {
   letter-spacing: 2rem;
   background-color: rgb(20, 20, 20);
   cursor: text;
+  font-family: "Courier New", Courier, monospace;
 }
 @media (max-width: 400px) {
   html {
