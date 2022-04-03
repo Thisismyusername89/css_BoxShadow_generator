@@ -95,7 +95,7 @@ span {
   cursor: text;
   font-family: "Courier New", Courier, monospace;
 }
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   html {
     font-size: 4.25%;
   }
